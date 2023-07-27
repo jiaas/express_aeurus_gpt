@@ -1,0 +1,27 @@
+{
+  "name": "express_aeurus_gpt",
+  "version": "1.0.0",
+  "description": "This is a demo for testing GPT-4 API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiaas/express_aeurus_gpt.git"
+  },
+  "keywords": [
+    "gpt",
+    "aeurus",
+    "automation"
+  ],
+  "author": "Javier Quinteros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiaas/express_aeurus_gpt/issues"
+  },
+  "homepage": "https://github.com/jiaas/express_aeurus_gpt#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
